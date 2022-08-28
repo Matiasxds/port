@@ -1,0 +1,36 @@
+
+
+.navbar.navbar-expand-lg.bg-river{
+    background-color: rgb(255, 0, 0) !important;
+}
+
+
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+    color: rgb(0, 153, 255);
+
+}
+
+
+i.fa-brands.fa-square-instagram.fa-2xl:hover{
+    color:rgb(255, 0, 157) ;
+}
+i.fa-brands.fa-facebook-f.fa-2xl:hover{
+    color: rgb(0, 0, 255);
+}
+
+
+body {
+    background: rgb(0, 255, 221);
+
+    min-height: 100vh;
+    
+    font-size: 1.5rem;
+    background-image:url(https://img.freepik.com/foto-gratis/fondo-banner-trazo-pincel-rojo-negro-perfecto-canva_1361-3597.jpg?w=740&t=st=1660866566~exp=1660867166~hmac=1516378c20dd6a835e446b832c4e28db398c0a9f46a189c65588e9cbff6f8b85) ;
+background-size: 100% 150%;   
+background-repeat: no-repeat;
+}
+section.about{
+    top: 50rem;
+    margin-top: 50rem; 
+    color:white  ;
+}
